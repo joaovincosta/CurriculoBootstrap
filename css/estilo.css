@@ -79,3 +79,36 @@ ul.timeline-list li:before {
 	font-family: poppins;
 	color: #ff3636;
 }
+
+img{
+	width: 45%;
+}
+
+section{
+	margin-bottom: 100px;
+}
+
+nav{
+	margin-bottom: 70px;
+}
+
+footer{
+	background-color: #ff3636
+}
+
+.accordion-button:hover{
+	color: #ff3636;
+}
+
+.accordion{
+	padding: 35px;
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.SobreMim p{
+	text-align: justify;
+}
